@@ -3,7 +3,7 @@
 *.pyc
 
 *.xml
-
+*.sh
 *.tar.gz
 
 *.iml
